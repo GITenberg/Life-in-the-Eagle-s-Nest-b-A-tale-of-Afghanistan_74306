@@ -1,0 +1,42 @@
+_repo: Life-in-the-Eagle-s-Nest-b-A-tale-of-Afghanistan_74306
+_version: 0.0.1
+contributor:
+  engraver:
+    agent_name: Corner, James Mackenzie
+    alias: Corner, J. M. (James Mackenzie)
+    gutenberg_agent_id: '57439'
+    url: http://www.gutenberg.org/2009/agents/57439
+creator:
+  author:
+    agent_name: A. L. O. E.
+    aliases:
+    - A.L.O.E.
+    - Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: ''
+gutenberg_issued: '2024-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74306'
+language: en
+pgterms:marc905: 20240817222134author
+pgterms:marc906: '1883'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bGall & Inglis, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Self-realization -- Fiction'
+- !lcsh 'Afghanistan -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Life in the Eagle''s Nest : $b A tale of Afghanistan'
+url: http://www.gutenberg.org/ebooks/74306
