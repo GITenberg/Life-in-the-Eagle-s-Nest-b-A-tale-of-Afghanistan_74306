@@ -6,6 +6,9 @@ contributor:
     alias: Corner, J. M. (James Mackenzie)
     gutenberg_agent_id: '57439'
     url: http://www.gutenberg.org/2009/agents/57439
+covers:
+- cover_type: archival
+  image_path: 74306-h/images/img-cover.jpg
 creator:
   author:
     agent_name: A. L. O. E.
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31385
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74306#Life-in-the-Eagle-s-Nest-b-A-tale-of-Afghanistan
 gutenberg_issued: '2024-08-23'
 gutenberg_type: Text
 identifiers:
